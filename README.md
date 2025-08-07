@@ -7,7 +7,7 @@ TOPOVINO is a project that aims to run Windows applications and games on Android
 
 It uses a customized build of Wine compiled for Android and Box64 to run in the best possible way.
 
-Actually in constant development.
+Actually not in development.
 
 ---
 
