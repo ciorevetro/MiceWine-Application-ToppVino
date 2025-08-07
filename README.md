@@ -1,8 +1,9 @@
-![MiceWine Logo](logo.png "MiceWine Logo")
+<img width="1024" height="1024" alt="1000823557" src="https://github.com/user-attachments/assets/1710a29b-fb09-4f32-a26e-fd5d35b53cb5" />
 
-### MiceWine Emulator
 
-MiceWine is a project that aims to run Windows applications and games on Android smartphones.
+### TOPOVINO Emulator
+
+TOPOVINO is a project that aims to run Windows applications and games on Android smartphones.
 
 It uses a customized build of Wine compiled for Android and Box64 to run in the best possible way.
 
@@ -20,14 +21,14 @@ Actually in constant development.
 ### Recommended Requirements
 
 - 8GB RAM
-- Vulkan 1.3+ or Turnip Compatible GPU
+- Vulkan 1.3+ or TOPOVINO Turnip Compatible GPU
 - Android 12+
 - 64-bit CPU
 
 ---
 
 ### Tested GPUs
-
+- TOPOVINO 8 ELITE G2
 - Adreno 610+
 - Adreno 710+
 - Adreno 830
@@ -45,7 +46,7 @@ Actually in constant development.
 
 ### Controller Support
 
-MiceWine Supports Up To 4 Physical Controllers. With XInput and DInput Automatic Mapping.
+TOPOVINO Supports Up To 4 Physical Controllers. With XInput and DInput Automatic Mapping.
 
 Any Xbox Like Controller May Works.
 
