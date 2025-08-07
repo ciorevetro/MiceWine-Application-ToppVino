@@ -77,3 +77,5 @@ You can download the required **RootFS** file from this repository:
 - [WineHQ](https://gitlab.winehq.org/wine/wine)
 - [Termux-X11](https://github.com/termux/termux-x11)
 - [Mesa](https://gitlab.freedesktop.org/mesa/mesa)
+
+if you didnt understand till now this is a shitpost
