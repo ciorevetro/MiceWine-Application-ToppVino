@@ -11,6 +11,8 @@ Actually not in development.
 
 ---
 
+OHMAIGAWD! TOPOVINO V649 RELEASED: https://github.com/ciorevetro/MiceWine-Application-ToppVino/releases
+
 ### Minimum Requirements
 
 - 4GB RAM
